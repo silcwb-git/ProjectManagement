@@ -4,3 +4,17 @@
 /Users/silcwb/git/ProjectManagement/src/ProjectManagement.Backend/ProjectManagement.Infrastructure/obj/Debug/net8.0/ProjectManagement.Infrastructure.AssemblyInfo.cs
 /Users/silcwb/git/ProjectManagement/src/ProjectManagement.Backend/ProjectManagement.Infrastructure/obj/Debug/net8.0/ProjectManagement.Infrastructure.csproj.CoreCompileInputs.cache
 /Users/silcwb/git/ProjectManagement/src/ProjectManagement.Backend/ProjectManagement.Infrastructure/obj/Debug/net8.0/ProjectManagement.Infrastructure.sourcelink.json
+/Users/silcwb/git/ProjectManagement/src/ProjectManagement.Backend/ProjectManagement.Infrastructure/bin/Debug/net8.0/ProjectManagement.Infrastructure.deps.json
+/Users/silcwb/git/ProjectManagement/src/ProjectManagement.Backend/ProjectManagement.Infrastructure/bin/Debug/net8.0/ProjectManagement.Infrastructure.runtimeconfig.json
+/Users/silcwb/git/ProjectManagement/src/ProjectManagement.Backend/ProjectManagement.Infrastructure/bin/Debug/net8.0/ProjectManagement.Infrastructure.dll
+/Users/silcwb/git/ProjectManagement/src/ProjectManagement.Backend/ProjectManagement.Infrastructure/bin/Debug/net8.0/ProjectManagement.Infrastructure.pdb
+/Users/silcwb/git/ProjectManagement/src/ProjectManagement.Backend/ProjectManagement.Infrastructure/bin/Debug/net8.0/ProjectManagement.Application.dll
+/Users/silcwb/git/ProjectManagement/src/ProjectManagement.Backend/ProjectManagement.Infrastructure/bin/Debug/net8.0/ProjectManagement.Domain.dll
+/Users/silcwb/git/ProjectManagement/src/ProjectManagement.Backend/ProjectManagement.Infrastructure/bin/Debug/net8.0/ProjectManagement.Application.pdb
+/Users/silcwb/git/ProjectManagement/src/ProjectManagement.Backend/ProjectManagement.Infrastructure/bin/Debug/net8.0/ProjectManagement.Domain.pdb
+/Users/silcwb/git/ProjectManagement/src/ProjectManagement.Backend/ProjectManagement.Infrastructure/obj/Debug/net8.0/ProjectM.60AD468C.Up2Date
+/Users/silcwb/git/ProjectManagement/src/ProjectManagement.Backend/ProjectManagement.Infrastructure/obj/Debug/net8.0/ProjectManagement.Infrastructure.dll
+/Users/silcwb/git/ProjectManagement/src/ProjectManagement.Backend/ProjectManagement.Infrastructure/obj/Debug/net8.0/refint/ProjectManagement.Infrastructure.dll
+/Users/silcwb/git/ProjectManagement/src/ProjectManagement.Backend/ProjectManagement.Infrastructure/obj/Debug/net8.0/ProjectManagement.Infrastructure.pdb
+/Users/silcwb/git/ProjectManagement/src/ProjectManagement.Backend/ProjectManagement.Infrastructure/obj/Debug/net8.0/ProjectManagement.Infrastructure.genruntimeconfig.cache
+/Users/silcwb/git/ProjectManagement/src/ProjectManagement.Backend/ProjectManagement.Infrastructure/obj/Debug/net8.0/ref/ProjectManagement.Infrastructure.dll

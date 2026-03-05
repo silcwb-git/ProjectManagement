@@ -1,6 +1,6 @@
 using ProjectManagement.Infrastructure;
 
-var builder = WebApplicationBuilder.CreateBuilder(args);
+var builder = WebApplication.CreateBuilder(args);
 
 // Adicionar serviços
 builder.Services.AddControllers();

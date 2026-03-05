@@ -7,9 +7,8 @@ namespace ProjectManagement.Domain.Entities
         public ProjectRole Role { get; set; }
         public DateTime JoinedAt { get; set; }
 
-        // Relacionamentos
-        public virtual Project Project { get; set; }
-        public virtual User User { get; set; }
+        public virtual Project? Project { get; set; }
+        public virtual User? User { get; set; }
     }
 
     public enum ProjectRole

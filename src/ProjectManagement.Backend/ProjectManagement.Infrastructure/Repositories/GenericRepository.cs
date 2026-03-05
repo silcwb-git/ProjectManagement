@@ -5,7 +5,7 @@ namespace ProjectManagement.Infrastructure.Repositories
 {
     public interface IGenericRepository<T> where T : class
     {
-        Task<T> GetByIdAsync(Guid id);
+        Task<T?> GetByIdAsync(Guid id);
         Task<IEnumerable<T>> GetAllAsync();
         Task AddAsync(T entity);
         Task UpdateAsync(T entity);
@@ -24,31 +24,31 @@ namespace ProjectManagement.Infrastructure.Repositories
             _dbSet = context.Set<T>();
         }
 
-        public async Task<T?> GetByIdAsync(Guid id)  // ← Adicione ? para nullable
+        public async Task<T?> GetByIdAsync(Guid id)
         {
             return await _dbSet.FindAsync(id);
         }
 
         public async Task<IEnumerable<T>> GetAllAsync()
         {
-            return await _dbSet.ToListAsync();  // ← Adicione await
+            return await _dbSet.ToListAsync();
         }
 
         public async Task AddAsync(T entity)
         {
-            await _dbSet.AddAsync(entity);  // ← Já tem await
+            await _dbSet.AddAsync(entity);
         }
 
         public async Task UpdateAsync(T entity)
         {
             _dbSet.Update(entity);
-            await Task.CompletedTask;  // ← Adicione isto
+            await Task.CompletedTask;
         }
 
         public async Task DeleteAsync(T entity)
         {
             _dbSet.Remove(entity);
-            await Task.CompletedTask;  // ← Adicione isto
+            await Task.CompletedTask;
         }
 
         public async Task SaveChangesAsync()
