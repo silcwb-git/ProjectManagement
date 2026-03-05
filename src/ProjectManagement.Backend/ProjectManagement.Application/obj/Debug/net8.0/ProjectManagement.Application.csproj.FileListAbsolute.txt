@@ -1,0 +1,16 @@
+/Users/silcwb/git/ProjectManagement/src/ProjectManagement.Backend/ProjectManagement.Application/bin/Debug/net8.0/ProjectManagement.Application.deps.json
+/Users/silcwb/git/ProjectManagement/src/ProjectManagement.Backend/ProjectManagement.Application/bin/Debug/net8.0/ProjectManagement.Application.dll
+/Users/silcwb/git/ProjectManagement/src/ProjectManagement.Backend/ProjectManagement.Application/bin/Debug/net8.0/ProjectManagement.Application.pdb
+/Users/silcwb/git/ProjectManagement/src/ProjectManagement.Backend/ProjectManagement.Application/bin/Debug/net8.0/ProjectManagement.Domain.dll
+/Users/silcwb/git/ProjectManagement/src/ProjectManagement.Backend/ProjectManagement.Application/bin/Debug/net8.0/ProjectManagement.Domain.pdb
+/Users/silcwb/git/ProjectManagement/src/ProjectManagement.Backend/ProjectManagement.Application/obj/Debug/net8.0/ProjectManagement.Application.csproj.AssemblyReference.cache
+/Users/silcwb/git/ProjectManagement/src/ProjectManagement.Backend/ProjectManagement.Application/obj/Debug/net8.0/ProjectManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/silcwb/git/ProjectManagement/src/ProjectManagement.Backend/ProjectManagement.Application/obj/Debug/net8.0/ProjectManagement.Application.AssemblyInfoInputs.cache
+/Users/silcwb/git/ProjectManagement/src/ProjectManagement.Backend/ProjectManagement.Application/obj/Debug/net8.0/ProjectManagement.Application.AssemblyInfo.cs
+/Users/silcwb/git/ProjectManagement/src/ProjectManagement.Backend/ProjectManagement.Application/obj/Debug/net8.0/ProjectManagement.Application.csproj.CoreCompileInputs.cache
+/Users/silcwb/git/ProjectManagement/src/ProjectManagement.Backend/ProjectManagement.Application/obj/Debug/net8.0/ProjectManagement.Application.sourcelink.json
+/Users/silcwb/git/ProjectManagement/src/ProjectManagement.Backend/ProjectManagement.Application/obj/Debug/net8.0/ProjectM.6FAF72D3.Up2Date
+/Users/silcwb/git/ProjectManagement/src/ProjectManagement.Backend/ProjectManagement.Application/obj/Debug/net8.0/ProjectManagement.Application.dll
+/Users/silcwb/git/ProjectManagement/src/ProjectManagement.Backend/ProjectManagement.Application/obj/Debug/net8.0/refint/ProjectManagement.Application.dll
+/Users/silcwb/git/ProjectManagement/src/ProjectManagement.Backend/ProjectManagement.Application/obj/Debug/net8.0/ProjectManagement.Application.pdb
+/Users/silcwb/git/ProjectManagement/src/ProjectManagement.Backend/ProjectManagement.Application/obj/Debug/net8.0/ref/ProjectManagement.Application.dll

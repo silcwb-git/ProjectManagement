@@ -1,0 +1,8 @@
+/Users/silcwb/git/ProjectManagement/src/ProjectManagement.Backend/ProjectManagement.API/obj/Debug/net8.0/ProjectManagement.API.csproj.AssemblyReference.cache
+/Users/silcwb/git/ProjectManagement/src/ProjectManagement.Backend/ProjectManagement.API/obj/Debug/net8.0/ProjectManagement.API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/silcwb/git/ProjectManagement/src/ProjectManagement.Backend/ProjectManagement.API/obj/Debug/net8.0/ProjectManagement.API.AssemblyInfoInputs.cache
+/Users/silcwb/git/ProjectManagement/src/ProjectManagement.Backend/ProjectManagement.API/obj/Debug/net8.0/ProjectManagement.API.AssemblyInfo.cs
+/Users/silcwb/git/ProjectManagement/src/ProjectManagement.Backend/ProjectManagement.API/obj/Debug/net8.0/ProjectManagement.API.csproj.CoreCompileInputs.cache
+/Users/silcwb/git/ProjectManagement/src/ProjectManagement.Backend/ProjectManagement.API/obj/Debug/net8.0/ProjectManagement.API.MvcApplicationPartsAssemblyInfo.cs
+/Users/silcwb/git/ProjectManagement/src/ProjectManagement.Backend/ProjectManagement.API/obj/Debug/net8.0/ProjectManagement.API.MvcApplicationPartsAssemblyInfo.cache
+/Users/silcwb/git/ProjectManagement/src/ProjectManagement.Backend/ProjectManagement.API/obj/Debug/net8.0/ProjectManagement.API.sourcelink.json

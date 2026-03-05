@@ -1,0 +1,12 @@
+/Users/silcwb/git/ProjectManagement/src/ProjectManagement.Backend/ProjectManagement.Domain/bin/Debug/net8.0/ProjectManagement.Domain.deps.json
+/Users/silcwb/git/ProjectManagement/src/ProjectManagement.Backend/ProjectManagement.Domain/bin/Debug/net8.0/ProjectManagement.Domain.dll
+/Users/silcwb/git/ProjectManagement/src/ProjectManagement.Backend/ProjectManagement.Domain/bin/Debug/net8.0/ProjectManagement.Domain.pdb
+/Users/silcwb/git/ProjectManagement/src/ProjectManagement.Backend/ProjectManagement.Domain/obj/Debug/net8.0/ProjectManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/silcwb/git/ProjectManagement/src/ProjectManagement.Backend/ProjectManagement.Domain/obj/Debug/net8.0/ProjectManagement.Domain.AssemblyInfoInputs.cache
+/Users/silcwb/git/ProjectManagement/src/ProjectManagement.Backend/ProjectManagement.Domain/obj/Debug/net8.0/ProjectManagement.Domain.AssemblyInfo.cs
+/Users/silcwb/git/ProjectManagement/src/ProjectManagement.Backend/ProjectManagement.Domain/obj/Debug/net8.0/ProjectManagement.Domain.csproj.CoreCompileInputs.cache
+/Users/silcwb/git/ProjectManagement/src/ProjectManagement.Backend/ProjectManagement.Domain/obj/Debug/net8.0/ProjectManagement.Domain.sourcelink.json
+/Users/silcwb/git/ProjectManagement/src/ProjectManagement.Backend/ProjectManagement.Domain/obj/Debug/net8.0/ProjectManagement.Domain.dll
+/Users/silcwb/git/ProjectManagement/src/ProjectManagement.Backend/ProjectManagement.Domain/obj/Debug/net8.0/refint/ProjectManagement.Domain.dll
+/Users/silcwb/git/ProjectManagement/src/ProjectManagement.Backend/ProjectManagement.Domain/obj/Debug/net8.0/ProjectManagement.Domain.pdb
+/Users/silcwb/git/ProjectManagement/src/ProjectManagement.Backend/ProjectManagement.Domain/obj/Debug/net8.0/ref/ProjectManagement.Domain.dll

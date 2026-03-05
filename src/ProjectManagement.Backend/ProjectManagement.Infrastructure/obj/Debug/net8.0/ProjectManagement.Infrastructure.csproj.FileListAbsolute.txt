@@ -1,0 +1,6 @@
+/Users/silcwb/git/ProjectManagement/src/ProjectManagement.Backend/ProjectManagement.Infrastructure/obj/Debug/net8.0/ProjectManagement.Infrastructure.csproj.AssemblyReference.cache
+/Users/silcwb/git/ProjectManagement/src/ProjectManagement.Backend/ProjectManagement.Infrastructure/obj/Debug/net8.0/ProjectManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/silcwb/git/ProjectManagement/src/ProjectManagement.Backend/ProjectManagement.Infrastructure/obj/Debug/net8.0/ProjectManagement.Infrastructure.AssemblyInfoInputs.cache
+/Users/silcwb/git/ProjectManagement/src/ProjectManagement.Backend/ProjectManagement.Infrastructure/obj/Debug/net8.0/ProjectManagement.Infrastructure.AssemblyInfo.cs
+/Users/silcwb/git/ProjectManagement/src/ProjectManagement.Backend/ProjectManagement.Infrastructure/obj/Debug/net8.0/ProjectManagement.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/silcwb/git/ProjectManagement/src/ProjectManagement.Backend/ProjectManagement.Infrastructure/obj/Debug/net8.0/ProjectManagement.Infrastructure.sourcelink.json
